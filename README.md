@@ -21,14 +21,10 @@ Obs2: Para ler arquivos xlsx (arquivos em excel normais, que não são padrão c
     
 2. Qual foi o faturamento da empresa?<br>
     
-    
 3. Qual o % de funcionários que já fechou algum contrato?<br>
-<br><br>
     
 4. Calcule o total de contratos que cada área da empresa já fechou
 
-
 5. Calcule o total de funcionários por área
-
 
 6. Qual o ticket médio mensal (faturamento médio mensal) dos contratos?<br>
